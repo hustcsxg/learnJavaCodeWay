@@ -1,2 +1,3 @@
-# learnJavaCodeWay
-learn java code way
+# LearnJava
+
+Java学习笔记及作业
